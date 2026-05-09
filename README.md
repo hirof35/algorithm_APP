@@ -78,3 +78,5 @@ PDF 形式でのアルゴリズム解説書出力
 UI のテーマ切り替え（ライト / ダーク）
 
 改善はすべて 既存構造を壊さず拡張できる形で設計しています。
+
+<img width="795" height="632" alt="スクリーンショット 2026-05-09 203315" src="https://github.com/user-attachments/assets/1090627a-63aa-465a-b168-d0650c4e310f" />
